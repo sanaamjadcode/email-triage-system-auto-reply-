@@ -34,7 +34,7 @@ are hosted externally on Google Drive.
 
 ### 🔗 Download Large Files
 👉 **Google Drive link:**  
-https://drive.google.com/file/d/1oQFGVi3nKIRK13cxpUNm_hfM9LbIatnp/view?usp=drive_link
+[https://drive.google.com/file/d/1oQFGVi3nKIRK13cxpUNm_hfM9LbIatnp/view?usp=drive_link](https://drive.google.com/file/d/1oQFGVi3nKIRK13cxpUNm_hfM9LbIatnp/view?usp=sharing)
 
 ### 📌 After downloading:
 1. Extract the downloaded files
